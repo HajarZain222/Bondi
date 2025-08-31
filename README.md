@@ -11,8 +11,8 @@ A modern, responsive website built with:
 - 🎨 **CSS3**  
 - 🧩 **Bootstrap 5**  
 
-🔗 **Live Demo:** [ضع اللينك هنا]  
-📂 **Source Code on GitHub:** [ضع لينك الجيتهاب]  
+🔗 **Live Demo:** [ https://hajarzain222.github.io/Bondi/ ]  
+📂 **Source Code on GitHub:** [ https://github.com/HajarZain222/Bondi ]  
 
 ---
 
